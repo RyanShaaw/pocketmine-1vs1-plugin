@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at http://poggit.jdcraft.net/poggit/ci/Awzaw/pocketmine-1vs1-plugin
+branches:
+- master
+projects:
+  pocketmine-1vs1-plugin:
+    path: ""
+...
